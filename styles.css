@@ -1,0 +1,43 @@
+.navbar-brand{
+    color: brown;
+}
+
+.seksyen1{
+    background-color: rgb(228, 214, 197);
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-Aelvi{
+    color: firebrick;
+}
+
+.heading-Candle{
+    color: rgb(184, 149, 73);
+}
+
+.btn-warning {
+    color: #000;
+    background-color: #b99a3a;
+    border-color: #f7ee9e;
+}
+
+
+ .seksyen5{
+     background-color: seashell;
+     padding: 5% 20% 5%;
+     text-align: left;
+     color: snow;
+
+ }
+
+
+/* footer */
+.footer {
+    background-color: wheat;
+    padding: 2%;
+    text-align: center;
+}
